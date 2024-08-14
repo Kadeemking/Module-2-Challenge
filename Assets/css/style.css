@@ -1,0 +1,73 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 10vh;
+    border: 1px solid red
+}
+
+header h1{
+    flex: 1 0 50%;
+    border: 1px solid red
+}
+
+header nav{
+    flex: 1 0 50%;
+    border: 1px solid red
+}
+
+header ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; /* if changed to flex-end then add to li padding right 10% */
+    width: 100%;
+    
+}
+
+header li{
+    list-style: none;
+}
+
+
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid red;
+}
+
+aside{
+    border-right: 2px solid black;
+    flex: 1 0 15%;
+    display: flex;
+    justify-content: end;
+    padding: 1% 2%;
+}
+
+section{
+    flex: 1 0 79%;
+    padding: 1% 2%;
+}
+
+#hero{
+    background: url(https://placehold.co/1200x300);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 46.5vh;
+    width: 100%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    padding: 3%;
+}
+
+#picture img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+@media screen and (max-width: 500px){
+   
+}
