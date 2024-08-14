@@ -62,11 +62,19 @@ section{
     padding: 3%;
 }
 
-#picture img{
+#project img{
     width: 100%;
     border-radius: 10px;
 }
 
+#small-pics{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#small-pics img{
+    flex: 1 0 100%;
+}
 
 @media screen and (max-width: 500px){
    
