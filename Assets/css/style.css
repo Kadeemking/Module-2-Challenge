@@ -30,7 +30,7 @@ header li{
 
 
 
-main{
+main, footer{
     display: flex;
     flex-wrap: wrap;
     border: 1px solid red;
@@ -49,6 +49,20 @@ section{
     padding: 1% 2%;
 }
 
+.small-pics{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.small-pics section{
+    flex: 1 0 45%;
+}
+
+.small-pics img{
+    width:100%;
+    border-radius: 10px;
+}
+
 #hero{
     background: url(https://placehold.co/1200x300);
     background-size: contain;
@@ -65,15 +79,6 @@ section{
 #project img{
     width: 100%;
     border-radius: 10px;
-}
-
-#small-pics{
-    display: flex;
-    flex-wrap: wrap;
-}
-
-#small-pics img{
-    flex: 1 0 100%;
 }
 
 @media screen and (max-width: 500px){
