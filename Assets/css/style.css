@@ -19,12 +19,18 @@ header nav{
 header ul{
     display: flex;
     flex-direction: row;
-    justify-content: space-around; /* if changed to flex-end then add to li padding right 10% */
+    justify-content: space-evenly;
     width: 100%;
     
 }
 
-header li{
+footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+li{
     list-style: none;
 }
 
