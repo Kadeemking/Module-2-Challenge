@@ -24,7 +24,7 @@ For this project we were tasked with creating a portfolio for ourselves. I used 
 
 <a href="https://kadeemking.github.io/Module-2-Challenge/">Live link</a>
 
-![alt text](assets/images/screenshot2.png)
+![portfolio page](assets/images/screenshot3.png)
 
 
 ## Credits
