@@ -22,7 +22,7 @@ For this project we were tasked with creating a portfolio for ourselves. I used 
 
 <a href="https://github.com/Kadeemking/Module-2-Challenge.git">Git Hub Repo</a>
 
-<a href="#">Live link</a>
+<a href="https://kadeemking.github.io/Module-2-Challenge/">Live link</a>
 
 ![alt text](assets/images/screenshot2.png)
 
