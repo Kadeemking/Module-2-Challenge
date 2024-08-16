@@ -2,16 +2,14 @@
 
 ## Description
 
-For this project we were tasked with creating a portfolio for ourselves. 
+For this project we were tasked with creating a portfolio for ourselves. I used the skills I learned from my previous CSS lessons how to style my pageand make it mobile responsive. I was able to design my page with background images and colors to add personality to my portfolio. I created a nav bar with links that help navigate the user through the page. I included a photo of my 1st project as well as a live link to the project. 
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
 - What did you learn?
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Usage](#usage)
 - [Credits](#credits)
@@ -29,7 +27,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-<!-- <a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">README Format</a>  -->
+<a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">README Format</a> 
 
 <a href="https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba">License for README</a>
 
@@ -43,4 +41,4 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Features
 
-If your project has a lot of features, list them here.
+
