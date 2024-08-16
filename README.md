@@ -22,8 +22,7 @@ For this project we were tasked with creating a portfolio for ourselves. I used 
 
 <a href="https://github.com/Kadeemking/Module-2-Challenge.git">Git Hub Repo</a>
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
+<a href="#">Live link</a>
 
 ![alt text](assets/images/screenshot2.png)
 
